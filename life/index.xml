@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>eiuapp &amp;copy; 2019</copyright>
-    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/life/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>MY SON</title>
       <link>/life/boy/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>/life/boy/</guid>
       <description>无论我在哪里，总会在某个瞬间想到你，my boy.</description>

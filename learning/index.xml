@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
     <copyright>eiuapp &amp;copy; 2019</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/learning/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>系统</title>
       <link>/learning/system/</link>
-      <pubDate>Sun, 04 Nov 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>/learning/system/</guid>
       <description>Linux 学习笔记 Linux Mint是基于Debian和Ubuntu的 Linux 发行版，对用户友好而功能强大，非常适合作为日常主力操作系统使用。这份学习笔记, 记录L</description>
@@ -24,7 +24,7 @@
     <item>
       <title>工具</title>
       <link>/learning/tools/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/learning/tools/</guid>
       <description>Hugo学习笔记 Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。 Hugo以速度快著称，号称是世界上最快的网站生</description>
