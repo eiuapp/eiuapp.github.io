@@ -1,0 +1,59 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>10=2 on 10=2</title>
+    <link>/</link>
+    <description>Recent content in 10=2 on 10=2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>eiuapp &amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0800</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>系统</title>
+      <link>/learning/system/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/learning/system/</guid>
+      <description>
+
+&lt;h3 id=&#34;linux-学习笔记-https-eiuapp-github-io-linux-handbook&#34;&gt;&lt;a href=&#34;https://eiuapp.github.io/linux-handbook/&#34; target=&#34;_blank&#34;&gt;Linux 学习笔记&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Linux Mint是基于Debian和Ubuntu的 Linux 发行版，对用户友好而功能强大，非常适合作为日常主力操作系统使用。这份学习笔记, 记录Linux Mint (Linux Mint 19 Cinnamon 版本) 的学习过程和日常使用。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>工具</title>
+      <link>/learning/tools/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/learning/tools/</guid>
+      <description>
+
+&lt;h3 id=&#34;hugo学习笔记-https-eiuapp-github-io-hugo-handbook&#34;&gt;&lt;a href=&#34;https://eiuapp.github.io/hugo-handbook/&#34; target=&#34;_blank&#34;&gt;Hugo学习笔记&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Hugo是由Go语言实现的静态网站生成器。简单、易用、高效、易扩展、快速部署。&lt;/p&gt;
+
+&lt;p&gt;Hugo以速度快著称，号称是世界上最快的网站生成框架。&lt;/p&gt;
+
+&lt;h3 id=&#34;git与github学习笔记-https-eiuapp-github-io-github-handbook&#34;&gt;&lt;a href=&#34;https://eiuapp.github.io/github-handbook/&#34; target=&#34;_blank&#34;&gt;Git与Github学习笔记&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Git是目前业界最流行的分布式版本控制工具。&lt;/p&gt;
+
+&lt;p&gt;备注： gitbook 格式，还没有转为 hugo 格式。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MY SON</title>
+      <link>/life/boy/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/life/boy/</guid>
+      <description>&lt;p&gt;无论我在哪里，总会在某个瞬间想到你，my boy。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>life on 10=2</title>
+    <link>/tags/life/</link>
+    <description>Recent content in life on 10=2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans</language>
+    <copyright>eiuapp &amp;copy; 2019</copyright>
+    <lastBuildDate>Sat, 30 Jun 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/tags/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MY SON</title>
+      <link>/life/boy/</link>
+      <pubDate>Sat, 30 Jun 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/life/boy/</guid>
+      <description>无论我在哪里，总会在某个瞬间想到你，my boy.</description>
+    </item>
+    
+  </channel>
+</rss>
